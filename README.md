@@ -1,5 +1,9 @@
 ### Check out my ad-free blog: https://blog.avahe.tk/
 
+@avahe:matrix.org
+
+Prestige on: freenode, rizon, oftc
+
 <!--
 **avahe-kellenberger/avahe-kellenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

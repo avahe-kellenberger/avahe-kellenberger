@@ -1,4 +1,4 @@
-### Check out my ad-free blog: https://blog.avahe.tk/
+### Check out my ad-free blog: https://blog.einheit.tech/
 
 @avahe:matrix.org
 

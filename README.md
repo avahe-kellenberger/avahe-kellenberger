@@ -2,7 +2,7 @@
 
 @avahe:matrix.org
 
-Prestige on: freenode, rizon, oftc
+Prestige on freenode
 
 <!--
 **avahe-kellenberger/avahe-kellenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
